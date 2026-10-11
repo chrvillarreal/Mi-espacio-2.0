@@ -1,0 +1,9 @@
+{
+  "name": "Mi Espacio 2.0",
+  "short_name": "Mi Espacio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f5f1",
+  "theme_color": "#285f51",
+  "lang": "es"
+}
